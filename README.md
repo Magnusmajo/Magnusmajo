@@ -1,9 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Magnusmajo/Magnusmajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get some info about me
 
-Here are some ideas to get you started:
+### Here are some info about me:
 
 - 🔭 I’m currently studying in Holberton School Uruguay
 - 🌱 I’m currently learning Programming languages and more, and many more. BUAHAHAHAH 
@@ -18,4 +17,3 @@ Portuguese  Basic
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
