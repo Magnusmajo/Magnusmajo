@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## Get some info about me
+![init](https://github.com/user-attachments/assets/294eac11-715e-4a89-bcc5-62a552c45e86)
 
 ### Here are some info about me:
 
