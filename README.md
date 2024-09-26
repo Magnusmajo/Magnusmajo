@@ -12,7 +12,7 @@
 Spanish     Native/
 English     Professional/
 Dutch       Basic/
-Portuguese  Basic/
+Portuguese  Basic/ 
 Other's career: - Doctor in Medicine
                 - Quality Assurance Engineer
 -  Linkedin profile:  https://www.linkedin.com/in/magnusmajo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLvzZhrv1TOiTpPRgxJ58ug%3D%3D
