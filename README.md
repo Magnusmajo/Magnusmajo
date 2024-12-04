@@ -18,7 +18,8 @@ Portuguese  Basic
 - Full Stack software Engineer
 - Quality Assurance Engineer
 - Doctor in Medicine  
-  
+
+ ## Social Media:
 -  Linkedin profile:  www.linkedin.com/in/magnusmajo
 - 💬 Ask me about ... alexisoblivion@gmail.com
 - 📫 How to reach me: ... www.linkedin.com/in/magnusmajo
