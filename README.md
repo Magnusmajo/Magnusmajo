@@ -14,8 +14,8 @@ English     Professional/
 Dutch       Basic/
 Portuguese  Basic
  
-## Other's career:
-
+## Career:
+- Full Stack software Engineer
 - Quality Assurance Engineer
 - Doctor in Medicine  
   
