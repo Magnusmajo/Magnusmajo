@@ -10,7 +10,11 @@
 
 ## 🔎 About Me
 
-I am a **medical doctor** with training in software development and hands-on experience in academic and personal projects. My main interest lies in the intersection of health and technology: backend development, low-level programming (C), automation, and web applications. I aim to collaborate with teams where I can contribute both clinical reasoning and programming skills.
+I am a Medical Doctor (MD, 2019) with experience in patient care across clinics, hospitals and specialized centers. Since 2023, I have been working in Uruguay as an aesthetic physician, focusing on hair health, clinical diagnosis and postoperative follow-up, while guiding patients in their decision-making process regarding treatments.
+
+Alongside my medical career, I am a Full-Stack Developer skilled in Python, Flask, React, MySQL and Docker, among other technologies. My focus is on creating digital health solutions that simplify clinical workflows, from patient management systems to AI-powered tools for triage and decision support.
+
+I am currently pursuing a Master in Artificial Intelligence in Healthcare at CEMP, where I aim to integrate advanced AI into healthcare delivery. My goal is to combine clinical expertise with technology to develop innovative solutions that improve patient outcomes and optimize medical practice.
 
 ---
 
