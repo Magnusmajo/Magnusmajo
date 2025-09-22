@@ -1,8 +1,6 @@
-# Magnusmajo — Professional Profile
 
 ![init](https://github.com/user-attachments/assets/294eac11-715e-4a89-bcc5-62a552c45e86)
 
-> *Médico · Desarrollador · Apasionado por resolver problemas reales con software*
 
 # Magnusmajo — Professional Profile
 
@@ -85,9 +83,10 @@ I am a **medical doctor** with training in software development and hands-on exp
 
 ## 📬 Contact
 
-* Email: \[[your-email@example.com](mailto:your-email@example.com)]
-* LinkedIn: \[your-linkedin-profile]
-* TikTok: \[optional]
+* Email: \[[dralexis19003227@gmail.com(dralexis19003227@gmail.com)]
+* LinkedIn: \www.linkedin.com/in/magnusmajo
+
+* TikTok: \@dr_alexis_rodriguez
 
 ---
 
