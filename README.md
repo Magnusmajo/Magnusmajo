@@ -86,7 +86,7 @@ I am a **medical doctor** with training in software development and hands-on exp
 * Email: \dralexis19003227@gmail.com
 * LinkedIn: \www.linkedin.com/in/magnusmajo
 
-* TikTok: \dr_alexis_rodriguez
+* TikTok: [\dr_alexis_rodriguez](https://www.tiktok.com/@dr_alexis_rodriguez?_t=ZM-8zvTgJInTMC&_r=1)
 
 ---
 
