@@ -1,29 +1,98 @@
-# Hi there 👋
+# Magnusmajo — Perfil profesional
 
-## Get some info about me
 ![init](https://github.com/user-attachments/assets/294eac11-715e-4a89-bcc5-62a552c45e86)
 
-### Here are some info about me:
+> *Médico · Desarrollador · Apasionado por resolver problemas reales con software*
 
-- 🔭 I’m currently studying in Holberton School Uruguay
-- 🌱 I’m currently learning Programming languages and more, and many more. BUAHAHAHAH 
-- 👯 I’m looking to collaborate on the creation of new and interestings projects to grow up in my career
-- Languages: 
-Spanish     Native/
-English     Professional/
-Dutch       Basic/
-Portuguese  Basic
- 
-## Career:
-- Full Stack software Engineer
-- Quality Assurance Engineer
-- Doctor in Medicine  
+---
 
- ## Social Media:
--  Linkedin profile:  www.linkedin.com/in/magnusmajo
-- 💬 Ask me about ... alexisoblivion@gmail.com
-- 📫 How to reach me: ... www.linkedin.com/in/magnusmajo
-- 😄 Pronouns: ...
-- ⚡ Fun fact:    :D
+## 🔎 Sobre mí
 
-  More info: I am a person passionate about Technology from an early age. A few years ago I finished my first university degree as a Doctor of Medicine, which I have practiced for a few years. Since 2023 I entered the IT world and completed a course in Quality Assurance Engineer. Since February 2024 I have been studying at Holberton School for Full Stack Software Engineer, with knowledge and practices in various programming languages, frameworks, databases and more. I love knowledge and constantly learning. I have the ability to adapt, work as a team and communicate in 4 languages ​​and 1 dialect. If you want to know more about me, I will be happy to answer you. Do not hesitate to write to me via email. It's in the description on my profile. Thanksssss
+Soy **médico** con formación en desarrollo de software y experiencia práctica en proyectos académicos y personales. Me interesa la intersección entre salud y tecnología: desarrollo backend, programación en bajo nivel (C), automatización y aplicaciones web. Busco colaborar en equipos donde pueda aportar pensamiento clínico y habilidades de programación.
+
+---
+
+## 🧰 Stack y herramientas
+
+* **Lenguajes:** C, Python, JavaScript (ES6+), SQL
+* **Frameworks / Librerías:** Node.js, Express, React, Flask
+* **Bases de datos:** PostgreSQL, SQLite
+* **Herramientas:** Git, GitHub, Docker, Make, GCC
+* **Testing / CI:** GitHub Actions, pytest, jest
+* **Otros:** HTML/CSS, Bash scripting
+
+---
+
+## 🚀 Proyectos destacados
+
+* **Sistema de Gestión Médica** — Aplicación backend para gestionar historiales clínicos.
+
+  * Tech: `Python`, `Flask`, `Postgres`
+  * Link: `https://github.com/Magnusmajo/NombreDelProyecto`
+
+* **Shell en C (Holberton)** — Shell simple compatible con comandos básicos.
+
+  * Tech: `C`, `Makefile`
+  * Link: `https://github.com/Magnusmajo/nombre-repo-shell`
+
+* **App Web Estética** — Mini aplicación de gestión y consulta estética.
+
+  * Tech: `React`, `Node.js`, `Express`
+  * Link: `https://github.com/Magnusmajo/nombre-repo-web`
+
+---
+
+## 📚 Documentación de proyectos
+
+Cada repositorio incluye:
+
+1. **Título y descripción corta**
+2. **Tecnologías usadas**
+3. **Instalación / Setup**
+4. **Cómo ejecutar**
+5. **Ejemplos / Capturas / GIF**
+6. **Tests**
+7. **Estado del proyecto**
+8. **Licencia**
+
+---
+
+## ✅ Buenas prácticas
+
+* README claro y completo
+* `.gitignore` apropiado
+* `LICENSE` (MIT)
+* Tests automatizados
+* Git history limpio
+* Badges en README (build / tests / coverage)
+* Plantillas: `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`
+
+---
+
+## 🧹 Mantenimiento
+
+* Archivar repos que no quieras mantener
+* Eliminar archivos innecesarios
+* Mensajes de commit claros (ej: `feat:`, `fix:`, `chore:`)
+
+---
+
+## 🤝 Cómo destacarme en GitHub
+
+* Fijar (pin) mis 3–5 repositorios más representativos en el perfil
+* Añadir capturas o GIFs para proyectos destacados
+* Mantener actualizados los repos relevantes con `README` de calidad
+
+---
+
+## 📬 Contacto
+
+* Email: \[[tu-email@example.com](mailto:tu-email@example.com)]
+* LinkedIn: \[tu-perfil-linkedin]
+* TikTok: \[opcional]
+
+---
+
+## Licencia
+
+MIT
