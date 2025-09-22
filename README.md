@@ -83,10 +83,10 @@ I am a **medical doctor** with training in software development and hands-on exp
 
 ## 📬 Contact
 
-* Email: \[[dralexis19003227@gmail.com(dralexis19003227@gmail.com)]
+* Email: \dralexis19003227@gmail.com
 * LinkedIn: \www.linkedin.com/in/magnusmajo
 
-* TikTok: \@dr_alexis_rodriguez
+* TikTok: \dr_alexis_rodriguez
 
 ---
 
