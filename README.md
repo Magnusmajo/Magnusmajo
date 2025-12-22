@@ -4,17 +4,19 @@
 
 # Magnusmajo — Professional Profile
 
-> *Doctor · Software Developer · Passionate about solving real-world problems with technology*
+> *Medical Doctor | Clinical AI & Digital Health | AI Implementation, Safety & Full-Stack Development*
 
 ---
 
 ## 🔎 About Me
 
-I am a Medical Doctor (MD, 2019) with experience in patient care across clinics, hospitals and specialized centers. Since 2023, I have been working in Uruguay as an aesthetic physician, focusing on hair health, clinical diagnosis and postoperative follow-up, while guiding patients in their decision-making process regarding treatments.
+I am a Medical Doctor (MD, 2019) and Full-Stack Developer dedicated to transforming healthcare through technology. With hands-on experience in hospitals, clinics, and specialized centers, I have delivered patient care while identifying inefficiencies in clinical workflows.
 
-Alongside my medical career, I am a Full-Stack Developer skilled in Python, Flask, React, MySQL and Docker, among other technologies. My focus is on creating digital health solutions that simplify clinical workflows, from patient management systems to AI-powered tools for triage and decision support.
+Since 2023, I have merged my clinical expertise with software development, creating digital health solutions that optimize medical practice. My projects include AI-powered triage tools, patient management systems, and data-driven clinical decision support platforms, improving operational efficiency and patient outcomes.
 
-I am currently pursuing a Master in Artificial Intelligence in Healthcare at CEMP, where I aim to integrate advanced AI into healthcare delivery. My goal is to combine clinical expertise with technology to develop innovative solutions that improve patient outcomes and optimize medical practice.
+Currently pursuing a Master in Artificial Intelligence in Healthcare at CEMP, I focus on applying advanced AI and machine learning to solve real-world healthcare problems. My goal is to bridge medicine and technology, designing innovative solutions that enhance care delivery, reduce costs, and empower clinicians with actionable insights.
+
+Passionate about HealthTech innovation, I am actively seeking opportunities to contribute to forward-thinking companies at the intersection of medicine, AI, and digital health.
 
 ---
 
@@ -85,7 +87,7 @@ I am currently pursuing a Master in Artificial Intelligence in Healthcare at CEM
 ## 🌐 Languages
 
 * **Spanish:** Native
-* **English:** Advanced
+* **English:** Professional
 * **Dutch:** Basic
 * **Portuguese:** Basic
 
