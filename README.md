@@ -1,8 +1,8 @@
 # Dr. Alexis Rodriguez
 
-**Medical Doctor | Software Developer | HealthTech**
+**Medical Doctor | HealthTech Product & Software Developer**
 
-I combine clinical experience with software development to build technology around real healthcare workflows. My focus is understanding operational problems in clinics, translating them into product requirements, and developing practical software solutions.
+I combine clinical experience with software development to solve real healthcare operational problems. I focus on understanding how clinical teams work, identifying workflow gaps, translating them into product requirements, and building practical software solutions.
 
 ## Focus areas
 
@@ -14,7 +14,7 @@ I combine clinical experience with software development to build technology arou
 ## Selected work
 
 ### Healthcare Operations Platform (HOP)
-A multi-tenant platform concept designed around real-world clinic operations, including patient management, scheduling, clinical workflows, CRM and administrative processes.
+A multi-tenant HealthTech platform in active development and validation, designed around real clinic workflows: patient management, scheduling, clinical operations, CRM and administration. The work includes tenant isolation, role-based access and auditable processes; it is not presented as production-ready.
 
 ### Lisza AI
 An independent product exploring professional scheduling, administrative CRM and AI-assisted communication workflows. The MVP is still under development.
@@ -38,7 +38,7 @@ A full-stack commerce application focused on reliable order processing, inventor
 
 - Medical Doctor (MD), 2019.
 - Clinical experience in primary care, emergency care and private healthcare settings.
-- Master's studies in Artificial Intelligence for Healthcare.
+- Master's degree in Artificial Intelligence for Healthcare.
 - Building at the intersection of healthcare, product thinking and software development.
 
 ## Find me
